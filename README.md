@@ -10,6 +10,7 @@ Ushbu repozitoriyda **python.sariq.dev** bo‘yicha berilgan mashq va topshiriql
 ## Darslik manbasi
 
 Asosiy darslik: Anvar Narzullaev
+
 Web sahifa: https://python.sariq.dev
 
 ## Foydali bo‘lishi uchun
